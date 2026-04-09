@@ -77,7 +77,8 @@ Escaneie o QR Code com o Expo Go (Android/iOS) ou pressione `a` para emulador An
 <img width="1554" height="843" alt="Simula_Cantina_code" src="https://github.com/user-attachments/assets/5bf5bae4-cd04-43bd-af3a-ecb0f279b398" />
 
 ### Vídeo do Cantina App Rodando
-Link do vídeo para uma demonstração em tempo: Clique aqui para assistir
+https://www.youtube.com/watch?v=9kSTV4Xo338
+**Link do vídeo para uma demonstração em tempo: Clique aqui para assistir**
 
 
 ## Decisões Técnicas
