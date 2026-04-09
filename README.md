@@ -62,19 +62,19 @@ Escaneie o QR Code com o Expo Go (Android/iOS) ou pressione `a` para emulador An
 
 ### **Tela do Grafico da Fila Cantina:**
 
-
+<img width="422" height="707" alt="Grafico_fila" src="https://github.com/user-attachments/assets/9dd654e0-b993-4832-8054-803189b0dbb4" />
 
 ### **Tela e código do Grafico da Fila Cantina:**
 
-
+<img width="1140" height="828" alt="Grafico_Fila_code" src="https://github.com/user-attachments/assets/4bec0147-7e94-4a25-a88b-fab347bfbe9e" />
 
 ### **Tela e código do Menu Cantina:**
 
-
+<img width="1557" height="826" alt="Menu_Cantina_code" src="https://github.com/user-attachments/assets/d270813d-bce1-4473-be35-de1339dbb6d2" />
 
 ### **Tela e código da Simulação da Cantina:**
 
-
+<img width="1554" height="843" alt="Simula_Cantina_code" src="https://github.com/user-attachments/assets/5bf5bae4-cd04-43bd-af3a-ecb0f279b398" />
 
 ### Vídeo do Cantina App Rodando
 Link do vídeo para uma demonstração em tempo: Clique aqui para assistir
